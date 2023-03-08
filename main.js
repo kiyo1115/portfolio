@@ -1,6 +1,6 @@
 import "./style.css";
 import * as THREE from "three";
-import bg from "./bg/bg.jpeg"
+import bg from "./bg/bg.jpg"
 
 //canvas
 const canvas = document.querySelector("#webgl");
